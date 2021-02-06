@@ -19,3 +19,9 @@ We will help set you up with our life changing technology and balance the demand
 Contact us at hemochek@gmail.com for more Questions
 
 <button>Email</button>
+
+colors:
+    gradient_left: "#155799"
+    gradient_right: "82CAFF"
+    header: "#fff"
+   
