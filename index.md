@@ -1,6 +1,6 @@
 ## HemoChek
 
-An app to help save lives through tracking blood levels.
+An app to help save lives through tracking blood levels by connecting to duo hemolyzers.
 
 ![image](https://user-images.githubusercontent.com/17555707/107127594-270c7900-6885-11eb-8a4f-32b37e1ee4e1.png)
 
