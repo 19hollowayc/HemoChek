@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 remote_theme: tuur29/pages-themes-cayman
 gem "github-pages", group: :jekyll_plugins
+colors:
+    gradient_left: "#82CAFF"
+    gradient_right: "#159957"
+    header: "#fff"
