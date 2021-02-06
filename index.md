@@ -1,6 +1,4 @@
-title: HemoChek
-
-## What is HemoChek?
+## HemoChek
 
 An app to help save lives through tracking blood levels.
 
