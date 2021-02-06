@@ -10,6 +10,8 @@ Doctors spend alot of time checking for hypercoagulation through constantly chec
 
 ### Sign Up Today!
 
+<button>Sign Up</button>
+
 We will help set you up with our life changing technology and balance the demand for patientcare.
 
 ### Support or Contact
