@@ -4,4 +4,4 @@ gem "github-pages", group: :jekyll_plugins
 colors:
     gradient_left: "#82CAFF"
     gradient_right: "#159957"
-    header: "#fff"
+    header: "#82CAFF"
