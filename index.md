@@ -18,4 +18,4 @@ We will help set you up with our life changing technology and balance the demand
 
 Contact us at hemochek@gmail.com for more Questions
 
-<button>Sign Up</button>
+<button>Email</button>
