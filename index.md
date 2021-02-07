@@ -22,8 +22,8 @@ We will help set you up with our life changing technology and balance the demand
 
 Contact us at hemochek@gmail.com for more Questions
 
-<form action="https://google.com">
-    <input type="submit" value="Go to Google" />
+<form action="https://19hollowayc.github.io/Hypercoagulation/">
+    <input type="submit" value="What is Hypercoagulation" />
 </form>
 
 
