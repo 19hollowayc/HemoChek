@@ -11,7 +11,15 @@ Doctors spend alot of time checking for hypercoagulation through constantly chec
 ![image](https://user-images.githubusercontent.com/17555707/107129032-891eab80-6890-11eb-8f30-46122ad5ec38.png)
 
 <form action="https://19hollowayc.github.io/Hypercoagulation/">
-    <input type="submit" value="What is Hypercoagulation" />
+    <input type="submit" value="What is Hypercoagulation?" />
+</form>
+
+<form action="https://19hollowayc.github.io/Hemolyzers/">
+    <input type="submit" value="What are Hemolyzers?" />
+</form>
+
+<form action="https://19hollowayc.github.io/Demo/">
+    <input type="submit" value="Check out HemoChek!" />
 </form>
 
 ### Sign Up Today!
