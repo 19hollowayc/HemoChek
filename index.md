@@ -10,6 +10,10 @@ Doctors spend alot of time checking for hypercoagulation through constantly chec
 
 ![image](https://user-images.githubusercontent.com/17555707/107129032-891eab80-6890-11eb-8f30-46122ad5ec38.png)
 
+<form action="https://19hollowayc.github.io/Hypercoagulation/">
+    <input type="submit" value="What is Hypercoagulation" />
+</form>
+
 ### Sign Up Today!
 
 <button>Sign Up</button>
@@ -21,10 +25,3 @@ We will help set you up with our life changing technology and balance the demand
 ### Support or Contact
 
 Contact us at hemochek@gmail.com for more Questions
-
-<form action="https://19hollowayc.github.io/Hypercoagulation/">
-    <input type="submit" value="What is Hypercoagulation" />
-</form>
-
-
-   
